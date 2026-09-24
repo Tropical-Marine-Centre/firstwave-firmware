@@ -1,6 +1,6 @@
 {
-  "version": "4.1.5",
-  "firmware_url": "https://raw.githubusercontent.com/Tropical-Marine-Centre/firstwave-firmware/main/V4_1_5.bin",
-  "size": 1615456,
-  "sha256": "d4a8a3edc9e5f96ed94dc9dd31caf04d0b87004b9ddcded502c1df8ae267c087"
+    "version":  "4.1.6",
+    "firmware_url":  "",
+    "size":  1640512,
+    "sha256":  "5e77353a03c1340619abc5b0dda38032950c49d4f460f7fc679c2125eb3acedd"
 }
